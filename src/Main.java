@@ -11,12 +11,12 @@ public class Main {
 
                 while(true){
                         System.out.println("*****欢迎进入电子商城******");
-                        System.out.println("1.注册");
-                        System.out.println("2.登录");
-                        System.out.println("3.查看商城");
-                        System.out.println("4.查看我购买的商品");
-                        System.out.println("5.管理员登陆");
-                        System.out.println("6.退出系统");
+                        System.out.println("\t\t1.注册");
+                        System.out.println("\t\t2.登录");
+                        System.out.println("\t\t3.查看商城");
+                        System.out.println("\t\t4.查看我购买的商品");
+                        System.out.println("\t\t5.管理员登陆");
+                        System.out.println("\t\t6.退出系统");
                         System.out.println("****************************");
 
                         choice = scanner.nextInt();

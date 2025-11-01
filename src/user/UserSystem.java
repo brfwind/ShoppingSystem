@@ -29,7 +29,7 @@ public class UserSystem {
                   if (username.length() >= 3) {
                         return username;
                   } else {
-                        System.out.print("用户名长度不能小于3位！请重新输入：");
+                        System.out.print("用户名长度不能小于3位！请重新输入\n");
                   }
             }
       }
